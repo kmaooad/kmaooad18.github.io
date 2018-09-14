@@ -18,7 +18,7 @@ Every week assignment deadline is 01:00 AM on next Monday (_after_ next week!)
 1. Create your personal GitHub account (if you don't have one)
 2. Login to GitHub and follow one of the assigment links above
 3. On your first opening some assignment, GitHub will request access from Classroom to your account - that's totally ok, just grant access.
-4. As you accept the assignment, GitHub will create your personal private repository and put starter code for assignment there. YOur repository will be named like 'assignment-w4-yournickname' etc.
+4. As you accept the assignment, GitHub will create your personal private repository and put starter code for assignment there. Your repository will be named like 'assignment-w4-yournickname' etc.
 5. Further use your personal repository from the previous step to complete and submit assignment.
 
 ### Implementing assignment
@@ -36,4 +36,48 @@ Every week assignment deadline is 01:00 AM on next Monday (_after_ next week!)
 
 ## Resources
 
-TBD
+There is no just one book or several books that could be a substitute for this course. Yet there are books that are somewhat classics in OOD field and altogether can help to build initial body of knowledge. Also, mentioned books are refered to throughout the course for better source linking on certain topics or issues.
+
+#### Books
+
+Basic
+
+[Fow] Martin Fowler, "Patterns of Enterprise Applications Architecture" ([book website](https://www.martinfowler.com/books/eaa.html), [patterns catalog](https://martinfowler.com/eaaCatalog/))
+
+[Lar] Craig Larman, "Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development (3rd Edition)"
+
+[Ddd] Eric Evans, "Domain-Driven Design: Tackling Complexity in the Heart of Software"
+
+[Mar] Robert C. Martin, "Agile Principles, Patterns, and Practices in C#"
+
+[GoF] Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm, "Design Patterns: Elements of Reusable Object-Oriented Software"
+
+
+Advanced
+
+[Cqrs] "CQRS Journey: Exploring CQRS and Event Sourcing" (by Microsoft team) [website](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10))
+
+[See] Mark Seemann, "Dependency Injection in .NET, Second Edition"
+
+[Hoh] Gregor Hohpe, Bobby Woolf, "Enterprise Integration Patterns : Designing, Building, and Deploying Messaging Solutions" ([book website](https://www.enterpriseintegrationpatterns.com/) with additional info)
+
+[Ver] Vaugn Vernon, "Implementing Domain-Driven Design"
+
+
+#### Websites, blogs, guides
+
+[https://github.com/dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
+
+[https://domainlanguage.com/](https://domainlanguage.com/)
+
+[https://martinfowler.com/design.html](https://martinfowler.com/design.html)
+
+[https://lostechies.com/jimmybogard/](https://lostechies.com/jimmybogard/)
+
+
+#### People
+
+You can research and reflect on writings and ideas of these respected authors:
+Martin Fowler, Robert C. Martin, Eric Evans, Greg Young, Jimmy Bogard, Vaughn Vernon
+
+
