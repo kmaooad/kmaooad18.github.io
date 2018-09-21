@@ -13,6 +13,8 @@ Every week assignment deadline is 01:00 AM on next Monday (_after_ next week!)
 
 [Week 2 (Rubik's Cube)](https://classroom.github.com/a/pqvBgp3I) (Deadline 23/09)
 
+[Week 3 (Advanced Rubik)](https://classroom.github.com/a/QAb4Y9fA) (Deadline 30/09)
+
 ### Accessing assignment
 
 1. Create your personal GitHub account (if you don't have one)
