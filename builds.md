@@ -1,6 +1,9 @@
 | | w2 | w3 | w4 | w5 | w6 | w7 | w8 | w9 | w10 | w11 |
-|------||------||------||------||------||------||------||------||------||------||------|
+
+|------|------|------|------|------|------|------|------|------|------|------|
+
 | m263313 | [![Build Status](https://dev.azure.com/ashabinskiy/KmaOoad18/_apis/build/status/assignment-w2-m263313-ci)](vstfs:///Build/Definition/99) |[![Build Status](https://dev.azure.com/ashabinskiy/KmaOoad18/_apis/build/status/assignment-w3-m263313-ci)](vstfs:///Build/Definition/124) |N/A |N/A |N/A |N/A |N/A |N/A |N/A |N/A |
+
 | Valera34 | [![Build Status](https://dev.azure.com/ashabinskiy/KmaOoad18/_apis/build/status/assignment-w2-Valera34-ci)](vstfs:///Build/Definition/116) |[![Build Status](https://dev.azure.com/ashabinskiy/KmaOoad18/_apis/build/status/assignment-w3-Valera34-ci)](vstfs:///Build/Definition/127) |N/A |N/A |N/A |N/A |N/A |N/A |N/A |N/A |
 | sanohin | [![Build Status](https://dev.azure.com/ashabinskiy/KmaOoad18/_apis/build/status/assignment-w2-sanohin-ci)](vstfs:///Build/Definition/110) |N/A |N/A |N/A |N/A |N/A |N/A |N/A |N/A |N/A |
 | BazaUA | [![Build Status](https://dev.azure.com/ashabinskiy/KmaOoad18/_apis/build/status/assignment-w2-BazaUA-ci)](vstfs:///Build/Definition/85) |[![Build Status](https://dev.azure.com/ashabinskiy/KmaOoad18/_apis/build/status/assignment-w3-BazaUA-ci)](vstfs:///Build/Definition/121) |N/A |N/A |N/A |N/A |N/A |N/A |N/A |N/A |
