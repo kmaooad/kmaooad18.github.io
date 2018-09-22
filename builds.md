@@ -3,7 +3,8 @@
 
 | ----- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 
-| m263313 | [![Build Status](https://dev.azure.com/ashabinskiy/KmaOoad18/_apis/build/status/assignment-w2-m263313-ci)](vstfs:///Build/Definition/99) |[![Build Status](https://dev.azure.com/ashabinskiy/KmaOoad18/_apis/build/status/assignment-w3-m263313-ci)](vstfs:///Build/Definition/124) |N/A |N/A |N/A |N/A |N/A |N/A |N/A |N/A |
+| m263313 | [![Build Status](https://dev.azure.com/ashabinskiy/KmaOoad18/_apis/build/status/assignment-w2-m263313-ci)](vstfs:///Build/Definition/99) | [![Build Status](https://dev.azure.com/ashabinskiy/KmaOoad18/_apis/build/status/assignment-w3-m263313-ci)](vstfs:///Build/Definition/124) | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
+
 
 | Valera34 | [![Build Status](https://dev.azure.com/ashabinskiy/KmaOoad18/_apis/build/status/assignment-w2-Valera34-ci)](vstfs:///Build/Definition/116) |[![Build Status](https://dev.azure.com/ashabinskiy/KmaOoad18/_apis/build/status/assignment-w3-Valera34-ci)](vstfs:///Build/Definition/127) |N/A |N/A |N/A |N/A |N/A |N/A |N/A |N/A |
 
