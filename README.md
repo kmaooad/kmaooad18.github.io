@@ -9,6 +9,8 @@ There is a chat on Gitter, click [![Join the chat at https://gitter.im/kmaooad18
 
 Every week assignment deadline is 01:00 AM on next Monday (_after_ next week!)
 
+Assignments are assessed by successful run of _all_ tests from Spec.cs (you can check that locally in advance — see [below](https://github.com/kmaooad18/course-home#implementing-assignment)). Check your results on [builds summary](https://github.com/kmaooad18/course-home/blob/master/builds.md) page.
+
 [Demo assignment](https://classroom.github.com/a/Y6I_OfSu) (Deadline 23/09)
 
 [Week 2 (Rubik's Cube)](https://classroom.github.com/a/pqvBgp3I) (Deadline 23/09)
@@ -19,7 +21,7 @@ Every week assignment deadline is 01:00 AM on next Monday (_after_ next week!)
 
 1. Create your personal GitHub account (if you don't have one)
 2. Login to GitHub and follow one of the assigment links above
-3. On your first opening some assignment, GitHub will request access from Classroom to your account - that's totally ok, just grant access.
+3. On your first opening some assignment, GitHub will request access from Classroom to your account — that's totally ok, just grant access.
 4. As you accept the assignment, GitHub will create your personal private repository and put starter code for assignment there. Your repository will be named like 'assignment-w4-yournickname' etc. **Make sure your repository name matches the mentioned pattern, it is absolutely required to match your repo to you and grade properly!**
 5. Further use your personal repository from the previous step to complete and submit assignment.
 
@@ -31,7 +33,7 @@ Every week assignment deadline is 01:00 AM on next Monday (_after_ next week!)
 4. To build the assignment, clone your repository from GitHub, in VS Code terminal or plain command line go to project folder (you need one with .csproj file in it), and execute `dotnet build`, or you may use `dotnet run` to build and run at once.
 5. Assignment comes as a starter code, typically one or more main code files (.cs) and Spec.cs file with specification tests.
 6. You need to fill main code file(s) with your implementation so that the program does what's expected. Start code in main files provides classes stubs, method stubs etc. You need to implement provided methods and/or add more of your own, if necessary.
-7. A good sign of properly implemented program (in terms of spec) is successful run of tests from Spec.cs. To check those, execute `dotnet test` or `dotnet xunit`. You'll see if some requirements do not hold - test(s) will fail.
+7. A good sign of properly implemented program (in terms of spec) is successful run of tests from Spec.cs. To check those, execute `dotnet test` or `dotnet xunit`. You'll see if some requirements do not hold — test(s) will fail.
 8. Don't try to cheat the tests: there are more on the teacher's side to make sure your implementation is the _real_ one, not just the tests-cheater :)
 9. Commit and push your progress to GitHub regularly: local PC crash sometimes. Make sure you commit and push your work in advance before the deadline. **Last commit _before_ the deadline will be taken for assessment.**
 
