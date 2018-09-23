@@ -1,4 +1,5 @@
-- List of students is re-generated nightly\n\r - If your build shows as never built, make any new commit (or edit any file on GitHub) to trigger CI
+- List of students is re-generated nightly
+- If your build shows as never built, make any new commit (or edit any file on GitHub) to trigger CI
 
 
 | Student | w2 | w3 |
