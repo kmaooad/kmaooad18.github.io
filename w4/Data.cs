@@ -37,6 +37,7 @@ namespace KmaOoad18.Samples.Week4
     {
         public Product Product { get; set; }
         public int Qty { get; set; }
+        public decimal Total { get; set; }
     }
 
     public class Product
