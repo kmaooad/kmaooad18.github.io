@@ -17,6 +17,8 @@ Assignments are assessed by successful run of _all_ tests from Spec.cs (you can 
 
 [Week 3 (Advanced Rubik)](https://classroom.github.com/a/QAb4Y9fA) (Deadline 30/09)
 
+[Week 4 (Loyalty Automation)](https://classroom.github.com/a/Y2h_ubKJ) (Deadline 08/10 (_extended due to publish delay_))
+
 ### Accessing assignment
 
 1. Create your personal GitHub account (if you don't have one)
