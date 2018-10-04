@@ -70,10 +70,16 @@ Advanced
 [Ver] Vaugn Vernon, "Implementing Domain-Driven Design"
 
 
-#### Websites, blogs, guides
+#### Sample projects
 
-[https://github.com/dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
+I highly recommend to explore these projects:
 
+[eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - cool sample application from Microsoft showcasing typical usage of EF Core, ASP.NET Core, patterns etc]
+
+[eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - similar to above, but much more advanced version: with microservices, containers, message bus etc.
+
+
+#### Other (blogs, websites)
 [https://domainlanguage.com/](https://domainlanguage.com/)
 
 [https://martinfowler.com/design.html](https://martinfowler.com/design.html)
@@ -83,7 +89,6 @@ Advanced
 
 #### People
 
-You can research and reflect on writings and ideas of these respected authors:
-Martin Fowler, Robert C. Martin, Eric Evans, Greg Young, Jimmy Bogard, Vaughn Vernon
+Check writings and talks of Martin Fowler, Robert C. Martin, Eric Evans, Greg Young, Jimmy Bogard, Vaughn Vernon.
 
 
