@@ -2,12 +2,12 @@ namespace KmaOoad18.Samples.Week6
 {
     public class Discounter
     {
-	private readonly DiscountContext _db;
+        private readonly DiscountContext _db;
 		
-	public Discounter(DiscountContext db)
-	{
-	    _db = db;
-	}
+        public Discounter(DiscountContext db)
+        {
+            _db = db;
+        }
 		
         public void ApplyDiscount(int orderId)
         {
