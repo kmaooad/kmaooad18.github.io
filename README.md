@@ -9,7 +9,7 @@ There is a chat on Gitter, click [![Join the chat at https://gitter.im/kmaooad18
 
 Every week assignment deadline is 01:00 AM on next Monday (_after_ next week!)
 
-Assignments are assessed by successful run of _all_ tests from Spec.cs (you can check that locally in advance — see [below](https://github.com/kmaooad18/course-home#implementing-assignment)). Check your results on [builds summary](https://github.com/kmaooad18/course-home/blob/master/builds.md) page.
+Assignments are assessed by successful run of _all_ tests from Spec.cs (you can check that locally in advance — see [below](https://github.com/kmaooad18/course-home#implementing-assignment)). Check your results on [builds summary](https://github.com/kmaooad18/course-home/blob/master/builds.md) page. Green build badge means your solution passes all tests on build server. This always reflects the latest available build and you can use this page as a mark of state of your repository. To get max points (3p) for your solution you have to provide passing build by deadline. Only the latest commit _before_ the deadline is checked for passing build. Same applies to extended deadline to get half points (1.5p). Bottom line is: it does not matter if you had passing build some time before deadline, but broke it right before the deadline! Only last commit always matters. That is how it works in real life, so try to be careful from the start. 
 
 [Demo assignment](https://classroom.github.com/a/Y6I_OfSu) (Deadline 23/09)
 
