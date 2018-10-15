@@ -21,6 +21,8 @@ Assignments are assessed by successful run of _all_ tests from Spec.cs (you can 
 
 [Week 5 (Loyalty Web API)](https://classroom.github.com/a/1DIYLdCn) (Deadline 16/10 (_extended due to publish delay_))
 
+[Week 6 (Leanware Part I)](https://classroom.github.com/a/9qtWZDVy) (Deadline 21/10 (task scope has been reduced so no deadline extension))
+
 ### Accessing assignment
 
 1. Create your personal GitHub account (if you don't have one)
