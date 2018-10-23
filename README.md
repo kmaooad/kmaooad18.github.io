@@ -5,6 +5,12 @@
 
 There is a chat on Gitter, click [![Join the chat at https://gitter.im/kmaooad18/course-home](https://badges.gitter.im/kmaooad18/course-home.svg)](https://gitter.im/kmaooad18/course-home?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) to join. There are several channels there. This repo channel (course-home) is for discussing lectures, theoretical issues, general ideas on topic (OOAD), and for _important_ organizational announcements. Please, ask common questions in this public channel, not in personal chat, so that everyone could benefit from the discussion. Also, for assignment-specific discussions, use their own channels (gitter button is in every assignment repo). Don't ask assignment questions in general channel.
 
+## Quizzes
+
+[Quiz W8](https://classroom.github.com/a/ugmQq7cC) (Deadline **28/10**)
+
+
+
 ## Assignments
 
 Every week assignment deadline is 01:00 AM on next Monday (_after_ next week!)
@@ -22,6 +28,10 @@ Assignments are assessed by successful run of _all_ tests from Spec.cs (you can 
 [Week 5 (Loyalty Web API)](https://classroom.github.com/a/1DIYLdCn) (Deadline 16/10 (_extended due to publish delay_))
 
 [Week 6 (Leanware Part I)](https://classroom.github.com/a/9qtWZDVy) (Deadline 21/10 (task scope has been reduced so no deadline extension))
+
+[Week 7 (Leanware Part II)](https://classroom.github.com/a/AJPiVQAs) (Deadline **04/11**)
+
+
 
 ### Accessing assignment
 
