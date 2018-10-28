@@ -62,18 +62,18 @@ There is no just one book or several books that could be a substitute for this c
 
 Basic
 
-[Fow] Martin Fowler, "Patterns of Enterprise Applications Architecture" ([book website](https://www.martinfowler.com/books/eaa.html), [patterns catalog](https://martinfowler.com/eaaCatalog/))
-
 [Lar] Craig Larman, "Applying UML and Patterns: An Introduction to Object-Oriented Analysis and Design and Iterative Development (3rd Edition)"
-
-[Ddd] Eric Evans, "Domain-Driven Design: Tackling Complexity in the Heart of Software"
 
 [Mar] Robert C. Martin, "Agile Principles, Patterns, and Practices in C#"
 
 [GoF] Erich Gamma, John Vlissides, Ralph Johnson, and Richard Helm, "Design Patterns: Elements of Reusable Object-Oriented Software"
 
+[Fow] Martin Fowler, "Patterns of Enterprise Applications Architecture" ([book website](https://www.martinfowler.com/books/eaa.html), [patterns catalog](https://martinfowler.com/eaaCatalog/))
+
 
 Advanced
+
+[Ddd] Eric Evans, "Domain-Driven Design: Tackling Complexity in the Heart of Software"
 
 [Cqrs] "CQRS Journey: Exploring CQRS and Event Sourcing" (by Microsoft team) [website](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10))
 
@@ -86,14 +86,13 @@ Advanced
 
 #### Sample projects
 
-I highly recommend to explore these projects:
-
 [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - cool sample application from Microsoft showcasing typical usage of EF Core, ASP.NET Core, patterns etc]
 
 [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers) - similar to above, but much more advanced version: with microservices, containers, message bus etc.
 
 
 #### Other (blogs, websites)
+
 [https://domainlanguage.com/](https://domainlanguage.com/)
 
 [https://martinfowler.com/design.html](https://martinfowler.com/design.html)
