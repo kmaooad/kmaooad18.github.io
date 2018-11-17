@@ -33,6 +33,8 @@ Assignments are assessed by successful run of _all_ tests from Spec.cs (you can 
 
 [Week 10 (Leanware Part III)](https://classroom.github.com/a/mY7LT_CO) (Deadline 18/11)
 
+[Week 11 (Leanware Part IV)](https://classroom.github.com/a/Dc7agdcE) (Deadline 25/11)
+
 
 ### Accessing assignment
 
