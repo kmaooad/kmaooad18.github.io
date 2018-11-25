@@ -35,6 +35,8 @@ Assignments are assessed by successful run of _all_ tests from Spec.cs (you can 
 
 [Week 11 (Leanware Part IV)](https://classroom.github.com/a/Dc7agdcE) (Deadline 25/11)
 
+[Week 12 (Leanware Part V)](https://classroom.github.com/a/bGKhbbXk) (Deadline 02/12)
+
 
 ### Accessing assignment
 
